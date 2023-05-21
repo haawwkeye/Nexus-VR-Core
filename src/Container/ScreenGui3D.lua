@@ -3,7 +3,7 @@ TheNexusAvenger
 
 Contains user interface components for a 3D user interface.
 --]]
---!strict
+--!nocheck
 
 local Workspace = game:GetService("Workspace")
 local RunService = game:GetService("RunService")
